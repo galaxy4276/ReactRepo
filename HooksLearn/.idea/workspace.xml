@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="828f1148-49db-4985-9790-12f0c0a23c3f" name="디폴트 변경 목록" comment="">
+      <change beforePath="$PROJECT_DIR$/hooKLearn/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooKLearn/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/hooKLearn/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooKLearn/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooKLearn/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooKLearn/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/hooKLearn/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooKLearn/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooKLearn/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hooKLearn/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/hooKLearn" />
+  </component>
+  <component name="ProjectId" id="1n0y8vChhGgdng1pZjlQjlhmXh1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../todo-app/src" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript.Linters.JSHint" />
+    <property name="ts.external.directory.path" value="C:\Users\Owner\AppData\Local\JetBrains\Toolbox\apps\WebStorm\ch-0\203.6682.155\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\React" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="828f1148-49db-4985-9790-12f0c0a23c3f" name="디폴트 변경 목록" comment="" />
+      <created>1610541146245</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610541146245</updated>
+      <workItem from="1610541147325" duration="204000" />
+      <workItem from="1610541360461" duration="118000" />
+      <workItem from="1610541554363" duration="1283000" />
+      <workItem from="1610545819595" duration="2566000" />
+      <workItem from="1610567841354" duration="2433000" />
+      <workItem from="1610578153258" duration="1876000" />
+      <workItem from="1610580137184" duration="212000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
