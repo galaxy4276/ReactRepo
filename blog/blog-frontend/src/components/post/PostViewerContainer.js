@@ -5,6 +5,7 @@ import PostViewer from './PostViewer';
 import { withRouter } from 'react-router-dom';
 import PostActionButtons from './PostActionButtons';
 import { setOriginalPost } from '../../modules/write';
+import { removePost } from '../../lib/api/post';
 
 const PostViewerContainer = ({ match, history }) => {
   const { postId } = match.params;
@@ -21,6 +22,14 @@ const PostViewerContainer = ({ match, history }) => {
     history.push('/write');
   }
 
+  const onRemove = async () => {
+    try {
+      await removePost(postId);
+    } catch (e) {
+      console.log(e);
+    }
+  }
+
   useEffect(() => {
     dispatch(readPost(postId));
     return () => {
@@ -32,7 +41,7 @@ const PostViewerContainer = ({ match, history }) => {
     post={post}
     loading={loading}
     error={error}
-    actionButtons={<PostActionButtons onEdit={onEdit} />}
+    actionButtons={<PostActionButtons onEdit={onEdit} onRemove={onRemove}/>}
     ownPost={user && user.id === post && post.id}
   />;
 };

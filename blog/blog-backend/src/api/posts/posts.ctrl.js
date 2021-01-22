@@ -178,7 +178,6 @@ export const getPostById = async (ctx, next) => {
 };
 
 export const checkOwnPost = (ctx, next) => {
-  console.log(ctx.state);
   const { user, post } = ctx.state;
 
   if (post.user._id.toString() !== user._id) {

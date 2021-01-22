@@ -6,6 +6,7 @@ import Button from '../common/Button';
 import SubInfo from '../common/SubInfo';
 import Tags from '../common/Tags';
 import { Link } from 'react-router-dom';
+import { Helmet } from 'react-helmet-async';
 
 const PostListBlock = styled(Responsive)`
   margin-top: 3rem;
@@ -55,6 +56,9 @@ const PostList = ({ posts, loading, error, showWriteButton }) => {
 
   return (
     <PostListBlock>
+      <Helmet>
+        <title>SILVER GIS</title>
+      </Helmet>
       <WritePostButtonWrapper>
         {showWriteButton && (
           <Button red to="/write">
