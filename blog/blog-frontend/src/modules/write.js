@@ -11,6 +11,11 @@ const [
   WRITE_POST_FAILURE
 ]  = createRequestActionTypes('write/WRIT E_POST');
 const SET_ORIGINAL_POST = 'write/SET_ORIGINAL_POST';
+const [
+  UPDATE_POST,
+  UPDATE_POST_SUCCESS,
+  UPDATE_POST_FAILURE,
+] = createRequestActionTypes('write/UPDATE_POST');
 
 export const initialize = createAction(INITIALIZE);
 export const changeField = createAction(CHANGE_FILED, ({ key, value}) => ({
@@ -23,10 +28,22 @@ export const writePost = createAction(WRITE_POST, ({ title, body, tags }) => ({
   tags,
 }));
 export const setOriginalPost = createAction(SET_ORIGINAL_POST, post => post);
+export const updatePost = createAction(
+  UPDATE_POST,
+  ({ id, title, body, tags }) => ({
+    id,
+    title,
+    body,
+    tags
+  }),
+);
+
 
 const writePostSaga = createRequestSaga(WRITE_POST, postsAPI.writePost);
+const updatePostSaga = createRequestSaga(UPDATE_POST, postsAPI.updatePost);
 export function* writeSaga() {
   yield takeLatest(WRITE_POST, writePostSaga);
+  yield takeLatest(UPDATE_POST, updatePostSaga);
 }
 
 const initialState = {
@@ -64,6 +81,14 @@ const write = handleActions(
       body: post.body,
       tags: post.tags,
       originalPostId: post._id,
+    }),
+    [UPDATE_POST_SUCCESS]: (state, { payload: post }) => ({
+      ...state,
+      post,
+    }),
+    [UPDATE_POST_FAILURE]: (state, { payload: postError }) => ({
+      ...state,
+      postError,
     }),
   },
   initialState,

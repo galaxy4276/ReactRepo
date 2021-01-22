@@ -1,5 +1,4 @@
 import React from 'react';
-import styled from 'styled-components';
 import qs from 'qs';
 import { withRouter } from 'react-router-dom';
 import { useSelector } from 'react-redux';

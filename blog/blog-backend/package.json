@@ -15,7 +15,8 @@
     "eslint-config-prettier": "^7.1.0",
     "joi": "^17.3.0",
     "koa": "^2.13.1",
-    "mongoose": "^5.11.12"
+    "mongoose": "^5.11.12",
+    "sanitize-html": "^2.3.0"
   },
   "scripts": {
     "start": "babel-node ./src",

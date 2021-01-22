@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce67a385-e16c-40c4-a3a6-975e33d201f5" name="디폴트 변경 목록" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HooksLearn/hooKLearn" beforeDir="false" afterPath="$PROJECT_DIR$/../HooksLearn/hooKLearn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bear-birth" beforeDir="false" afterPath="$PROJECT_DIR$/../bear-birth" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog-backend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-backend/src/api/posts/posts.ctrl.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog-backend/src/api/posts/posts.ctrl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-backend/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/blog-backend/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-frontend/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/blog-frontend/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-frontend/src/components/post/PaginationContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog-frontend/src/components/post/PaginationContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-frontend/src/components/write/WriteActionButtons.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog-frontend/src/components/write/WriteActionButtons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-frontend/src/components/write/WriteActionButtonsContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog-frontend/src/components/write/WriteActionButtonsContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-frontend/src/lib/api/post.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog-frontend/src/lib/api/post.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-frontend/src/modules/write.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog-frontend/src/modules/write.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../context-api" beforeDir="false" afterPath="$PROJECT_DIR$/../context-api" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-redux-tutorial" beforeDir="false" afterPath="$PROJECT_DIR$/../react-redux-tutorial" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../router" beforeDir="false" afterPath="$PROJECT_DIR$/../router" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-app" beforeDir="false" afterPath="$PROJECT_DIR$/../todo-app" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1nEF2gXYJnYQGZkcZt8kV0KxKd8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../css-prj/challenge/day11" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+    <property name="ts.external.directory.path" value="C:\Users\Owner\AppData\Local\JetBrains\Toolbox\apps\WebStorm\ch-0\203.6682.155\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\React\blog\blog-frontend\src\components" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="ce67a385-e16c-40c4-a3a6-975e33d201f5" name="디폴트 변경 목록" comment="" />
+      <created>1610947137387</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610947137387</updated>
+      <workItem from="1610947138493" duration="2177000" />
+      <workItem from="1610949750359" duration="1243000" />
+      <workItem from="1610951081823" duration="552000" />
+      <workItem from="1610964952056" duration="7579000" />
+      <workItem from="1611005402629" duration="24000" />
+      <workItem from="1611009177554" duration="10004000" />
+      <workItem from="1611023366675" duration="13675000" />
+      <workItem from="1611062624940" duration="11635000" />
+      <workItem from="1611094522336" duration="7173000" />
+      <workItem from="1611123657976" duration="13206000" />
+      <workItem from="1611179236052" duration="5611000" />
+      <workItem from="1611189791991" duration="14000" />
+      <workItem from="1611190034188" duration="6998000" />
+      <workItem from="1611272614798" duration="4772000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
