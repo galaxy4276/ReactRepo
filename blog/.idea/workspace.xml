@@ -6,15 +6,9 @@
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HooksLearn/hooKLearn" beforeDir="false" afterPath="$PROJECT_DIR$/../HooksLearn/hooKLearn" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bear-birth" beforeDir="false" afterPath="$PROJECT_DIR$/../bear-birth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog-backend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog-backend/src/api/posts/posts.ctrl.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog-backend/src/api/posts/posts.ctrl.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-backend/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/blog-backend/yarn.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog-frontend/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/blog-frontend/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-frontend/src/components/post/PaginationContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog-frontend/src/components/post/PaginationContainer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-frontend/src/components/write/WriteActionButtons.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog-frontend/src/components/write/WriteActionButtons.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-frontend/src/components/write/WriteActionButtonsContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog-frontend/src/components/write/WriteActionButtonsContainer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-frontend/src/lib/api/post.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog-frontend/src/lib/api/post.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-frontend/src/modules/write.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog-frontend/src/modules/write.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../context-api" beforeDir="false" afterPath="$PROJECT_DIR$/../context-api" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../react-redux-tutorial" beforeDir="false" afterPath="$PROJECT_DIR$/../react-redux-tutorial" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../router" beforeDir="false" afterPath="$PROJECT_DIR$/../router" afterDir="false" />
@@ -86,7 +80,8 @@
       <workItem from="1611179236052" duration="5611000" />
       <workItem from="1611189791991" duration="14000" />
       <workItem from="1611190034188" duration="6998000" />
-      <workItem from="1611272614798" duration="4772000" />
+      <workItem from="1611272614798" duration="4854000" />
+      <workItem from="1611301041491" duration="3691000" />
     </task>
     <servers />
   </component>
