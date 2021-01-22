@@ -2,23 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce67a385-e16c-40c4-a3a6-975e33d201f5" name="디폴트 변경 목록" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HooksLearn/hooKLearn" beforeDir="false" afterPath="$PROJECT_DIR$/../HooksLearn/hooKLearn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bear-birth" beforeDir="false" afterPath="$PROJECT_DIR$/../bear-birth" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog-backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog-backend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-backend/src/api/posts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog-backend/src/api/posts/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog-backend/src/api/posts/posts.ctrl.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog-backend/src/api/posts/posts.ctrl.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog-backend/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/blog-backend/yarn.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog-frontend/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/blog-frontend/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-frontend/src/components/post/PaginationContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog-frontend/src/components/post/PaginationContainer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-frontend/src/components/write/WriteActionButtons.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog-frontend/src/components/write/WriteActionButtons.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-frontend/src/components/write/WriteActionButtonsContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog-frontend/src/components/write/WriteActionButtonsContainer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-frontend/src/lib/api/post.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog-frontend/src/lib/api/post.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-frontend/src/modules/write.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog-frontend/src/modules/write.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../context-api" beforeDir="false" afterPath="$PROJECT_DIR$/../context-api" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-redux-tutorial" beforeDir="false" afterPath="$PROJECT_DIR$/../react-redux-tutorial" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../router" beforeDir="false" afterPath="$PROJECT_DIR$/../router" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../todo-app" beforeDir="false" afterPath="$PROJECT_DIR$/../todo-app" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +37,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../css-prj/challenge/day11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -56,7 +45,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="ts.external.directory.path" value="C:\Users\Owner\AppData\Local\JetBrains\Toolbox\apps\WebStorm\ch-0\203.6682.155\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -87,6 +76,7 @@
       <workItem from="1611189791991" duration="14000" />
       <workItem from="1611190034188" duration="6998000" />
       <workItem from="1611272614798" duration="4772000" />
+      <workItem from="1611285514704" duration="1934000" />
     </task>
     <servers />
   </component>
