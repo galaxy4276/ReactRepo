@@ -2,28 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce67a385-e16c-40c4-a3a6-975e33d201f5" name="디폴트 변경 목록" comment="">
-      <change afterPath="$PROJECT_DIR$/blog-frontend/src/components/common/AskModal.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HooksLearn/hooKLearn" beforeDir="false" afterPath="$PROJECT_DIR$/../HooksLearn/hooKLearn" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bear-birth" beforeDir="false" afterPath="$PROJECT_DIR$/../bear-birth" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog-backend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-backend/src/api/posts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog-backend/src/api/posts/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-backend/src/api/posts/posts.ctrl.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog-backend/src/api/posts/posts.ctrl.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-backend/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog-backend/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-backend/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/blog-backend/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-frontend/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/blog-frontend/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog-frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-frontend/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog-frontend/src/components/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-frontend/src/components/WritePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog-frontend/src/components/WritePage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-frontend/src/components/post/PostActionButtons.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog-frontend/src/components/post/PostActionButtons.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-frontend/src/components/post/PostList.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog-frontend/src/components/post/PostList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-frontend/src/components/post/PostViewer.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog-frontend/src/components/post/PostViewer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-frontend/src/components/post/PostViewerContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog-frontend/src/components/post/PostViewerContainer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-frontend/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog-frontend/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-frontend/src/lib/api/post.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog-frontend/src/lib/api/post.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-frontend/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/blog-frontend/yarn.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../context-api" beforeDir="false" afterPath="$PROJECT_DIR$/../context-api" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../react-redux-tutorial" beforeDir="false" afterPath="$PROJECT_DIR$/../react-redux-tutorial" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../router" beforeDir="false" afterPath="$PROJECT_DIR$/../router" afterDir="false" />
@@ -57,7 +40,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../css-prj/challenge/day11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../css-prj/challenge/day13" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -96,7 +79,7 @@
       <workItem from="1611189791991" duration="14000" />
       <workItem from="1611190034188" duration="6998000" />
       <workItem from="1611272614798" duration="4854000" />
-      <workItem from="1611301041491" duration="8647000" />
+      <workItem from="1611301041491" duration="10943000" />
     </task>
     <servers />
   </component>

@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f6167bb-2fd5-495f-a2cb-35a5cfafdb76" name="디폴트 변경 목록" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HooksLearn/hooKLearn" beforeDir="false" afterPath="$PROJECT_DIR$/HooksLearn/hooKLearn" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HooksLearn/hooKLearn/src/App.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/HooksLearn/hooKLearn/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/HooksLearn/hooKLearn/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HooksLearn/hooKLearn/src/App.test.js" beforeDir="false" />
@@ -10,7 +13,10 @@
       <change beforePath="$PROJECT_DIR$/HooksLearn/hooKLearn/src/logo.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/HooksLearn/hooKLearn/src/reportWebVitals.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/HooksLearn/hooKLearn/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bear-birth" beforeDir="false" afterPath="$PROJECT_DIR$/bear-birth" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bear-birth/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bear-birth/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/blog/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/context-api" beforeDir="false" afterPath="$PROJECT_DIR$/context-api" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/context-api/src/App.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/context-api/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/context-api/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/context-api/src/App.test.js" beforeDir="false" />
@@ -19,6 +25,7 @@
       <change beforePath="$PROJECT_DIR$/context-api/src/logo.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/context-api/src/reportWebVitals.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/context-api/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-redux-tutorial" beforeDir="false" afterPath="$PROJECT_DIR$/react-redux-tutorial" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/react-redux-tutorial/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/react-redux-tutorial/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/react-redux-tutorial/src/App.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/react-redux-tutorial/src/App.js" beforeDir="false" />
@@ -29,6 +36,7 @@
       <change beforePath="$PROJECT_DIR$/react-redux-tutorial/src/reportWebVitals.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/react-redux-tutorial/src/setupTests.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/react-redux-tutorial/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/react-redux-tutorial/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/router" beforeDir="false" afterPath="$PROJECT_DIR$/router" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/router/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/router/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/router/src/App.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/router/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/router/src/App.js" afterDir="false" />
@@ -39,16 +47,8 @@
       <change beforePath="$PROJECT_DIR$/router/src/reportWebVitals.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/router/src/setupTests.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/router/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/router/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/todo-app/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo-app/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo-app" beforeDir="false" afterPath="$PROJECT_DIR$/todo-app" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/todo-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/todo-app/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo-app/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo-app/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo-app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/todo-app/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo-app/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo-app/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo-app/src/setupTests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo-app/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/todo-app/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +56,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/react-redux-tutorial" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/todo-app" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -78,7 +78,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../css-prj/challenge/day8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/blog" />
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/todo-app/node_modules/react-scripts" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -127,7 +127,8 @@
       <workItem from="1610754338485" duration="342000" />
       <workItem from="1610807279030" duration="21926000" />
       <workItem from="1610914198326" duration="5231000" />
-      <workItem from="1610936888429" duration="5889000" />
+      <workItem from="1610936888429" duration="6064000" />
+      <workItem from="1611655625628" duration="2932000" />
     </task>
     <servers />
   </component>
