@@ -4,6 +4,7 @@
     <list default="true" id="78933d9e-bb94-442e-9f04-a9db104d98d5" name="디폴트 변경 목록" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HooksLearn/hooKLearn" beforeDir="false" afterPath="$PROJECT_DIR$/../HooksLearn/hooKLearn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bear-birth" beforeDir="false" afterPath="$PROJECT_DIR$/../bear-birth" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../blog/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../blog/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/.idea/workspace.xml" afterDir="false" />
@@ -39,22 +40,29 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindow이벤트 로그.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Users\Owner\AppData\Local\JetBrains\Toolbox\apps\WebStorm\ch-0\203.7148.54\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\React\ReactProgrammingBook\react-hooks\src" />
       <recent name="F:\React\ReactProgrammingBook\directReact\test" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.ES6.js">
     <configuration name="simple1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ReactProgrammingBook/directReact/test/simple1.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="ES6.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ES6.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.ES6.js" />
         <item itemvalue="JavaScript 디버그.simple1.html" />
       </list>
     </recent_temporary>
@@ -67,7 +75,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612504196436</updated>
-      <workItem from="1612504197596" duration="5671000" />
+      <workItem from="1612504197596" duration="6283000" />
+      <workItem from="1612684464397" duration="1869000" />
+      <workItem from="1612768113427" duration="2723000" />
+      <workItem from="1613039007239" duration="2590000" />
+      <workItem from="1613110415738" duration="1855000" />
     </task>
     <servers />
   </component>
@@ -84,5 +96,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
