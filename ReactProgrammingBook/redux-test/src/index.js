@@ -1,9 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
+import FriendMain from "./container/FriendMain";
+import TimelineMain from "./container/TimelineMain";
+
 
 ReactDOM.render(
-    <App />,
+  <div>
+    <FriendMain />
+    <TimelineMain />
+  </div>,
   document.getElementById('root')
 );
 
